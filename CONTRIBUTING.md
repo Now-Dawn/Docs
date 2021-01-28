@@ -10,4 +10,4 @@
 1. Modifications to the overall structure and format of the API docs.
 2. Additions that replicate or needlessly restructure current documentation.
 
-By submitting pull requests to this repository, you waive any rights or ownership of the included contents to NowDawn. Contributions to this repository must conform to the [NowDawn TOS](https://nowdawn.com/terms).
+By submitting pull requests to this repository, you waive any rights or ownership of the included contents to Scenic Weather. Contributions to this repository must conform to the [Scenic Weather TOS](https://nowdawn.com/terms).

@@ -1,6 +1,6 @@
-# NowDawn Official API Documentation
+# Scenic Weather API Documentation
 
-This repo contains the official NowDawn API documentation, which can be viewed online [HERE](https://nowdawn.com/docs/api). Before submitting pull-requests, please remember to _fully_ read the [Contributing](CONTRIBUTING.md) guidelines.
+This repo contains the official [Scenic Weather API documentation](https://nowdawn.com/docs/api). Before submitting pull-requests, please remember to _fully_ read the [Contributing](CONTRIBUTING.md) guidelines.
 
 ## Markdown Syntax
 
