@@ -1,19 +1,30 @@
 # Scenic Weather API Documentation
 
-This repo contains the official [Scenic Weather API documentation](https://nowdawn.com/docs/api). Before submitting pull-requests, please remember to _fully_ read the [Contributing](CONTRIBUTING.md) guidelines.
+This repo contains the official [Scenic Weather API documentation](https://scenicdata.com/docs/). 
 
-## Markdown Syntax
+## Usage
 
-This repository uses special markdown syntax that helps style the resulting web version of the documentation.
+### URL
 
-### H6 Headings
-H6 headings should be used above tables and code blocks to properly label them.
+```python
 
-### Linking
-Links between docs can be achieved by using a hash symbol (#), plus the markdown file name, plus a slash, and finally the dash-separated anchor. For instance, to link to the above H6 heading section:
+print("Test")
 
-```md
-[Links to README.md H6](#README/h6-headings)
 ```
-### Alert Boxes
-Alert boxes are achieved by using a block quote that has one of 'warn', 'danger' or 'info' on the first line.
+
+### Method
+
+### Parameters
+
+### Success Response
+
+### Error Response
+
+### Contributing
+
+Before submitting pull-requests, please remember to _fully_ read the [Contributing](CONTRIBUTING.md) guidelines.
+
+## License
+
+Copyright (c) 2021 Conor Forde
+Licensed under the MIT license.
