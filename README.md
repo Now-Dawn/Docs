@@ -1,5 +1,7 @@
 # Scenic Weather API Documentation
 
+![Scenic Weather](/media/scenic_icon.png)
+
 This repo contains the official [Scenic Weather API documentation](https://scenicdata.com/docs/). 
 
 ## Usage
